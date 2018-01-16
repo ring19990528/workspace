@@ -12,7 +12,7 @@ public class Drink {
 	}
 
 	public void print() {
-		System.out.print("請投幣或選擇飲料(a~h)，或輸入0結束:");
+		System.out.print("請投幣或選擇飲料(a~h):");
 	}
 
 
