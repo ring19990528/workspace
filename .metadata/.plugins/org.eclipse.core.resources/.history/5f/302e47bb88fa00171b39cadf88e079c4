@@ -15,7 +15,6 @@ public class Main {
 		employees.add(new Director("Frank", 70000, 9000));
 		for (int i=0; i<employees.size(); i++){
 			   employees.get(i).print();
-			   System.out.println();
 			}
 	}
 
